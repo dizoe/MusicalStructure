@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">Musical Structure</string>
+
+<string name="alternative">Alternative Rock</string>
+
+<string name="hard">Hard Rock</string>
+
+<string name="punk">Punk Rock</string>
+
+<string name="rocknroll">Rock and Roll</string>
+
+<string name="title_activity_nowplaying">Now Playing</string>
+
+<string name="home">BACK</string>
+
+</resources>

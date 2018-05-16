@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#1A237E</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <!-- Background color for app -->
+    <color name="app_background">#E1F5FE</color>
+
+    <!-- Background white color for app -->
+    <color name="primary_color1">#FFFFFF</color>
+
+    <color name="alternative">#4FC3F7</color>
+
+    <color name="hard">#03A9F4</color>
+
+    <color name="punk">#0288D1</color>
+
+    <color name="rocknroll">#01579B</color>
+
+    <color name="back">#FFFFFF</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructure.MainActivity">
+
+    <Button
+        android:id="@+id/alternative"
+        style="@style/CategoryStyle"
+        android:background="@color/alternative"
+        android:text="@string/alternative" />
+
+    <Button
+        android:id="@+id/hard"
+        style="@style/CategoryStyle"
+        android:background="@color/hard"
+        android:text="@string/hard" />
+
+    <Button
+        android:id="@+id/punk"
+        style="@style/CategoryStyle"
+        android:background="@color/punk"
+        android:text="@string/punk" />
+
+    <Button
+        android:id="@+id/rocknroll"
+        style="@style/CategoryStyle"
+        android:background="@color/rocknroll"
+        android:text="@string/rocknroll" />
+
+</LinearLayout>
